@@ -247,11 +247,12 @@ footer .container {
 @media screen and (max-width: 1400px){
 
     .menu_container {
-        width: 100%;
+        margin: auto;
+        width: 80%;
     }
 
     .md-card {
-        width: 50% !important;
+        width: 45% !important;
     }
     
     .md-card .md-card-header .md-title{
